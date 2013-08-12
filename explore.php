@@ -43,7 +43,8 @@ if($_GET['ckpt']==1){
     <tr valign="top">
       <td width="98" height="60" align="right">&nbsp;</td>
       <td width="377"><input type="hidden" name="ckpt" value="1" />
-        <input type="submit" name="Submit" value="Submit" /></td>
+        <input type="submit" name="Submit" value="Submit" /> 
+        I am tushar</td>
       <td width="182">Make kamal hossain</td>
     </tr>
   </table>
