@@ -19,8 +19,8 @@
       <td colspan="2"><textarea name="userIds" cols="65" rows="10" placeholder="User Id (ex abc;xyz;123)"></textarea></td>
     </tr>
     <tr valign="top">
-      <td width="98" height="60" align="right">&nbsp;</td>
-      <td width="377">ex
+      <td width="98" height="60" align="right">MM</td>
+      <td width="377">
         <input type="submit" name="Submit" value="Submit" /></td>
       <td width="182">&nbsp;</td>
     </tr>
