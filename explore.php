@@ -44,7 +44,7 @@ if($_GET['ckpt']==1){
       <td width="98" height="60" align="right">&nbsp;</td>
       <td width="377"><input type="hidden" name="ckpt" value="1" />
         <input type="submit" name="Submit" value="Submit" /></td>
-      <td width="182">Make some change</td>
+      <td width="182">Make </td>
     </tr>
   </table>
 </div>
